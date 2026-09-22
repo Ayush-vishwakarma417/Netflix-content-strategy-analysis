@@ -30,7 +30,3 @@ An end-to-end exploratory data analysis (EDA) project evaluating over 15 years o
 
 ---
 
-## 🚀 How to Run the Code
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/your-username/netflix-content-strategy-analysis.git](https://github.com/your-username/netflix-content-strategy-analysis.git)
